@@ -1,0 +1,8 @@
+{
+  "name": "my-animations-website",
+  "version": "1.0.0",
+  "description": "My animations and comics portfolio",
+  "scripts": {
+    "dev": "echo 'No build needed'"
+  }
+}
